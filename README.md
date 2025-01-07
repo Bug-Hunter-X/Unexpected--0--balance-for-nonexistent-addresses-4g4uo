@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Solidity smart contracts: returning 0 for addresses that haven't been initialized. The bug.sol file shows the problematic code, and solution.sol shows the corrected version.
